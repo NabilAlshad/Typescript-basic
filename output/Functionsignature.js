@@ -1,7 +1,7 @@
 "use strict";
-var add;
+let add;
 //once function is declared it doesnot takes any parameter
-add = function (a, b, c) {
+add = (a, b, c) => {
     if (c === "add") {
         return a + b;
     }

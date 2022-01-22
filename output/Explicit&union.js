@@ -1,6 +1,6 @@
 "use strict";
-var a = "nabil"; //explicitly defined
-var arr = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"];
+let a = "nabil"; //explicitly defined
+let arr = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"];
 //union
-var b = ["a", "b", "c", "d", 12];
-var num = 34;
+let b = ["a", "b", "c", "d", 12];
+let num = 34;
